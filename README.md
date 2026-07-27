@@ -1,5 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--   GULSHAN ✦ Cyberpunk × Korean Aesthetic GitHub Profile    -->
+<!--   GULSHAN ✦ Cyberpunk × Aesthetic GitHub Profile    -->
 <!--   Theme: #050505 matte black · purple neon · cyan          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -25,13 +25,12 @@
 <!-- ══════════════ ABOUT ME ══════════════ -->
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="330" alt="coding gif"/>
 
-## 🌸 About Me ・自己紹介
+## 🌸 About Me 
 
 ```yaml
 name:        Gulshan
 role:        Full-Stack Developer
 focus:       AI + Full-Stack Apps
-aesthetic:   Korean × Japanese × Cyberpunk 🌃
 learning:    [ React, Node.js, AI/ML, System Design ]
 goals_2026:  [ Ship 5 polished products, Master TypeScript,
                Contribute to open source ]
@@ -57,7 +56,7 @@ motto:       "Build the future, one commit at a time."
 <!-- ══════════════ TECH STACK ══════════════ -->
 <div align="center">
 
-## ⚡ Tech Stack ・技術
+## ⚡ Tech Stack ・technology
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs&theme=dark&perline=6" alt="tech stack"/>
 
@@ -95,7 +94,7 @@ Node.js     ████████████░░░░░░░░  62%
 <!-- ══════════════ LIVE DASHBOARD ══════════════ -->
 <div align="center">
 
-## 📊 Live Dashboard ・統計
+## 📊 Live Dashboard ・statistics
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=999gulshan&show_icons=true&theme=midnight-purple&bg_color=050505&title_color=a855f7&icon_color=22d3ee&text_color=e5e7eb&border_color=a855f7&border_radius=16&hide_border=false&count_private=true" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=999gulshan&layout=compact&bg_color=050505&title_color=a855f7&text_color=e5e7eb&border_color=22d3ee&border_radius=16&langs_count=8" alt="top languages"/>
@@ -115,7 +114,7 @@ Node.js     ████████████░░░░░░░░  62%
 <!-- ══════════════ SNAKE ══════════════ -->
 <div align="center">
 
-## 🐍 Neon Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/999gulshan/999gulshan/output/github-snake-dark.svg"/>
@@ -129,7 +128,7 @@ Node.js     ████████████░░░░░░░░  62%
 <!-- ══════════════ FEATURED PROJECTS ══════════════ -->
 <div align="center">
 
-## 🚀 Featured Projects ・プロジェクト
+## 🚀 Featured Projects 
 
 <table>
 <tr>
@@ -193,7 +192,7 @@ Node.js     ████████████░░░░░░░░  62%
 <!-- ══════════════ NOW PLAYING (Spotify) ══════════════ -->
 <div align="center">
 
-## 🎧 Now Playing ・音楽
+## 🎧 Now Playing ・music
 
 <!-- Replace YOUR_SPOTIFY_USER_ID after setting up spotify-github-profile (see SETUP.md) -->
 <a href="https://open.spotify.com">
@@ -209,7 +208,7 @@ Node.js     ████████████░░░░░░░░  62%
 <!-- ══════════════ ACHIEVEMENTS ══════════════ -->
 <div align="center">
 
-## 🏆 Achievements ・実績
+## 🏆 Achievements 
 
 <img src="https://github-profile-trophy.vercel.app/?username=999gulshan&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 
@@ -232,6 +231,6 @@ Node.js     ████████████░░░░░░░░  62%
 <!-- ══════════════ ANIMATED FOOTER ══════════════ -->
 <img src="assets/footer-wave.svg" width="100%" alt="Thanks for visiting"/>
 
-<sub>✦ Designed & built by Gulshan · #050505 × purple neon × cyan · 2026 ✦</sub>
+<sub>✦ Designed & built by Gulshan · #050505 × purple neon × cyan · 2026 </sub>
 
 </div>
