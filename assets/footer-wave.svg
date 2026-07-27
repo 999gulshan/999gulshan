@@ -1,0 +1,38 @@
+<svg width="900" height="150" viewBox="0 0 900 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Animated neon wave footer -->
+  <style>
+    @keyframes waveMove  { 0% { transform: translateX(0); } 100% { transform: translateX(-450px); } }
+    @keyframes waveMove2 { 0% { transform: translateX(-450px); } 100% { transform: translateX(0); } }
+    .w1 { animation: waveMove 7s linear infinite; }
+    .w2 { animation: waveMove2 10s linear infinite; opacity: .5; }
+    .w3 { animation: waveMove 14s linear infinite; opacity: .3; }
+    @keyframes twinkle { 0%,100% {opacity:.15;} 50% {opacity:1;} }
+    .star { fill:#fff; animation: twinkle ease-in-out infinite; }
+    @keyframes glowPulse { 0%,100% {opacity:.95;} 50% {opacity:.55;} }
+    .thanks { animation: glowPulse 3s ease-in-out infinite; font-family:'Segoe UI',sans-serif; }
+  </style>
+  <defs>
+    <linearGradient id="wg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="g" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="150" fill="#050505"/>
+
+  <circle class="star" cx="90"  cy="30" r="1.6" style="animation-duration:2.2s"/>
+  <circle class="star" cx="220" cy="55" r="1.2" style="animation-duration:3.1s;animation-delay:.5s"/>
+  <circle class="star" cx="370" cy="25" r="1.5" style="animation-duration:2.7s;animation-delay:1s"/>
+  <circle class="star" cx="540" cy="50" r="1.3" style="animation-duration:2.4s;animation-delay:.3s"/>
+  <circle class="star" cx="690" cy="28" r="1.7" style="animation-duration:3.4s;animation-delay:.8s"/>
+  <circle class="star" cx="830" cy="52" r="1.2" style="animation-duration:2.9s;animation-delay:1.4s"/>
+
+  <text class="thanks" x="450" y="62" text-anchor="middle" font-size="26" font-weight="700" letter-spacing="4" fill="url(#wg)" filter="url(#g)">✦ THANKS FOR VISITING ✦</text>
+
+  <!-- three parallax waves; each path is 2 periods wide (1350px) so a 450px shift loops seamlessly -->
+  <g class="w3"><path d="M0 118 Q112 92 225 118 T450 118 T675 118 T900 118 T1125 118 T1350 118 V150 H0 Z" fill="#a855f7"/></g>
+  <g class="w2"><path d="M0 124 Q112 100 225 124 T450 124 T675 124 T900 124 T1125 124 T1350 124 V150 H0 Z" fill="#22d3ee"/></g>
+  <g class="w1"><path d="M0 130 Q112 108 225 130 T450 130 T675 130 T900 130 T1125 130 T1350 130 V150 H0 Z" fill="url(#wg)"/></g>
+</svg>
