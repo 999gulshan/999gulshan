@@ -222,8 +222,13 @@ Node.js     ████████████░░░░░░░░  62%
 ## 🌐 Connect
 
 <a href="https://github.com/999gulshan"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=a855f7"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=a855f7"/></a>
+<a href="mailto:gulshan935456@gmail.com">
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=22d3ee"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gulshankumar274324280">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=a855f7"/>
+</a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=22d3ee"/></a>
 
 <br/><br/>
