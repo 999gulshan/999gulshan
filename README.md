@@ -196,7 +196,7 @@ Node.js     ████████████░░░░░░░░  62%
 
 <!-- Replace YOUR_SPOTIFY_USER_ID after setting up spotify-github-profile (see SETUP.md) -->
 <a href="https://open.spotify.com">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=a855f7&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oh7252rokcdyp3pwfsdjtc2j7q&cover_image=true&theme=novatorem&bar_color=a855f7&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
 </a>
 
 *🎵 Probably NewJeans on repeat*
