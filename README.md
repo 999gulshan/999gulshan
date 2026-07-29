@@ -229,7 +229,7 @@ Node.js     ████████████░░░░░░░░  62%
 <a href="https://www.linkedin.com/in/gulshankumar274324280">
   <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=a855f7"/>
 </a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=22d3ee"/></a>
+<a href="https://gulshanportfolios.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=22d3ee"/></a>
 
 <br/><br/>
 
